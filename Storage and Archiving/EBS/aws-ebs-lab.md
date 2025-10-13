@@ -12,7 +12,7 @@
 ## Prerequisites
 
 - An AWS account with permission to use EC2, EBS, and Snapshots (e.g., `ec2:*` on volumes/snapshots/instances).  
-- A running **EC2 instance** (t2.micro/t3.micro or similar) in your chosen region, with SSH access. (Refer to the Linux folder README for the step-by-step instructions on launching an EC2 intance) 
+- A running **EC2 instance** (t2.micro/t3.micro or similar) in your chosen region, with SSH access. (Refer to the Linux folder [README](./Linux/ReadME.md) for the step-by-step instructions on launching an EC2 intance) 
 - Security group allowing inbound SSH (`tcp/22`) from your IP.  
 - (Optional) AWS CLI v2 configured (`aws configure`) with the **same region** as your instance.
 
