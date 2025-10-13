@@ -1,10 +1,10 @@
 # AWS re/Start Lab Compilation
 
 **Heads up!** This repo’s a work in progress — more updates coming soon.
-*(Some folders may be empty for now — content’s on the way!)*  
+*(Some folders may be empty for now as new content rolls out)*  
 
 Welcome to the **AWS re/Start Lab Compilation** repository!  
-This project is a curated collection of hands-on labs inspired by the AWS re/Start program — created to help you strengthen your foundational IT skills through practical exercises in **Linux**, **Python**, **Databases** and more.
+This project is a curated collection of hands-on labs inspired by the AWS re/Start program. Each lab helps you strengthen your foundational IT skills through practical exercises in **Linux**, **Python**, **Databases**, **AWS Services** and more.
 
 
 ## About This Repository
@@ -16,14 +16,15 @@ These labs are intended to give you practical, step-by-step exercises that reinf
 
 - AWS re/Start students and alumni
 - Cloud beginners and career shifters
-- Self-learners preparing for entry-level cloud roles
+- Self-learners preparing for entry-level to mid cloud roles
 - Anyone interested in building a cloud-ready skillset
 
 ## Lab Topics Covered
 
 - **Linux**: CLI navigation, permissions, file management, and bash scripting  
 - **Python**: Variables, control flow, file handling, functions, and modules  
-- **Databases**: SQL basics, queries, CRUD operations, and table relationships  
+- **Databases**: SQL basics, queries, CRUD operations, and table relationships
+- **Storage and Archiving**: EBS, Instance Store, EFS and S3   
 - (Bonus: Introductory AWS CLI and service usage for context)
 
 ## How to Use This Repository
@@ -42,15 +43,17 @@ Labs are organized by topic and difficulty level. Each folder contains:
 [Python](./Python/README.md)  
 [CloudFormation](./CloudFormation/README.md)  
 [Lambda](./Lambda/Challenge_Lab.md)
+[Storage and Archiving](./Storage%20and%20Archiving/README.md) 
 
+## Each folder contains:  
+- A README.md with clear lab steps
+- Example commands and scripts
+- Practice exercises
 
-## Clear instructions in README.md  
-Example commands or scripts
-
-## Practice exercises
-
-Practice in your own environment
-Use a local Linux VM, VSC, or any Python-enabled IDE for Python labs. SQL labs can be practiced using MySQL.
+## You can practice using:
+- A local Linux Virtual Machine (VM), Visual Studio Code (VSC) terminal, for Linux/Python labs. 
+- MySQL or RDS for database labs
+- AWS Free Tier for cloud-focused labs
 
 ## Contributing
 If you have lab exercises you'd like to share, feel free to:
@@ -59,6 +62,13 @@ If you have lab exercises you'd like to share, feel free to:
 - Submit a pull request
 
 Let’s help more people build their cloud foundations, one lab at a time.
+
+## Cost Disclaimer
+Many labs can be completed using free tools or local setups. For AWS-related labs, please ensure you use the [AWS Free Tier](https://aws.amazon.com/free/) to avoid unexpected charges. Always monitor your AWS usage and delete any resources you create after completing the labs.
+```text
+Important: You are solely responsible for any charges incurred while running these labs. Always delete or stop resources (EC2, EBS, EFS, S3, snapshots, etc.) once you’re done to avoid unexpected costs. 
+```
+
 
 ## Disclaimer
 This project is an independent community resource and is not affiliated with AWS or the official AWS re/Start program.
