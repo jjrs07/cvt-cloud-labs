@@ -8,7 +8,7 @@ Each lab demonstrates a different storage service, from **block** to **object** 
 
 ---
 
-## 📦 Labs Included
+## Labs Included
 
 | Service | Description | Link |
 |----------|--------------|------|
@@ -19,7 +19,7 @@ Each lab demonstrates a different storage service, from **block** to **object** 
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Compare AWS storage types: **block**, **file**, and **object**
 - Understand **when to use** each storage option
