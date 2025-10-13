@@ -65,9 +65,9 @@ Let’s help more people build their cloud foundations, one lab at a time.
 
 ## Cost Disclaimer
 Many labs can be completed using free tools or local setups. For AWS-related labs, please ensure you use the [AWS Free Tier](https://aws.amazon.com/free/) to avoid unexpected charges. Always monitor your AWS usage and delete any resources you create after completing the labs.
-```text
-Important: You are solely responsible for any charges incurred while running these labs. Always delete or stop resources (EC2, EBS, EFS, S3, snapshots, etc.) once you’re done to avoid unexpected costs. 
-```
+
+> ⚠️ Important: You are solely responsible for any charges incurred while running these labs. Always delete or stop resources (EC2, EBS, EFS, S3, snapshots, etc.) once you’re done to avoid unexpected costs. 
+
 
 
 ## Disclaimer
