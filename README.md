@@ -1,78 +1,74 @@
-# AWS re/Start Lab Compilation
+# 🚀 AWS re/Start Lab Compilation: From Zero to Cloud Ready
 
-**Heads up!** This repo’s a work in progress — more updates coming soon.
-*(Some folders may be empty for now as new content rolls out)*  
+![AWS re/Start Banner](https://img.shields.io/badge/AWS-re%2FStart-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen?style=for-the-badge)
 
-Welcome to the **AWS re/Start Lab Compilation** repository!  
-This project is a curated collection of hands-on labs inspired by the AWS re/Start program. Each lab helps you strengthen your foundational IT skills through practical exercises in **Linux**, **Python**, **Databases**, **AWS Services** and more.
+> **Join 1,000+ students building their cloud careers!**  
+> 📩 **[Grab my Free AWS Career Roadmap & Daily Lab Tips here!](https://bit.ly/4jUodUf)**
 
+---
 
-## About This Repository
+Welcome to the **AWS re/Start Lab Compilation**! This repository is a curated collection of hands-on labs designed to take you from foundational IT concepts to AWS proficiency. Whether you are an AWS re/Start student, a career switcher, or a self-learner, these labs provide the practical experience needed for entry-level cloud roles.
 
-These labs are intended to give you practical, step-by-step exercises that reinforce the core topics taught in the AWS re/Start program. Whether you're just starting or need a refresher, this repo will support your journey with clear, beginner-friendly examples.
+## 🎯 Why This Repository?
 
+- **Hands-on First:** No fluff, just practical exercises.
+- **Foundational to Advanced:** Covers Linux, Python, Databases, and AWS Core Services.
+- **Free-Tier Friendly:** Designed to be completed using local tools or the AWS Free Tier.
 
-## Who This Is For
+---
 
-- AWS re/Start students and alumni
-- Cloud beginners and career shifters
-- Self-learners preparing for entry-level to mid cloud roles
-- Anyone interested in building a cloud-ready skillset
+## 🗺️ Lab Roadmap & Index
 
-## Lab Topics Covered
+| Module | Focus Area | Status |
+| :--- | :--- | :--- |
+| 🐧 [**Linux Fundamentals**](./Linux/README.md) | CLI, Permissions, Scripting | ✅ Complete |
+| 🐍 [**Python for Cloud**](./Python/README.md) | Automation, Data Handling, Logic | ✅ Complete |
+| 🗄️ [**Databases & SQL**](./Databases/README.md) | RDS, MariaDB, CRUD, Operations | ✅ Complete |
+| ☁️ [**Networking**](./Networking/README.md) | VPC, Subnets, Security Groups | 🏗️ In Progress |
+| ⚡ [**AWS Lambda**](./Lambda/Challenge_Lab.md) | Serverless, S3 Triggers, SNS | ✅ Complete |
+| 🏗️ [**CloudFormation**](./CloudFormation/README.md) | Infrastructure as Code (IaC) | ✅ Complete |
+| 📦 [**Storage & Archiving**](./Storage%20and%20Archiving/README.md) | S3, EBS, EFS | ✅ Complete |
 
-- **Linux**: CLI navigation, permissions, file management, and bash scripting  
-- **Python**: Variables, control flow, file handling, functions, and modules  
-- **Databases**: SQL basics, queries, CRUD operations, and table relationships
-- **Storage and Archiving**: EBS, Instance Store, EFS and S3   
-- (Bonus: Introductory AWS CLI and service usage for context)
+---
 
-## How to Use This Repository
+## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/aws-restart-labs.git
-   cd aws-restart-labs
+### 1. Clone the repository
+```bash
+git clone https://github.com/jj-rs/AWS_Restart_Lab.git
+cd AWS_Restart_Lab
+```
 
-2. **Explore by module**
-Labs are organized by topic and difficulty level. Each folder contains:
+### 2. Choose Your Path
+Each folder contains a dedicated `README.md` with:
+- Step-by-step instructions.
+- Architecture diagrams (where applicable).
+- Practice challenges to test your knowledge.
 
-3. **Lab Index**  
-[Linux](./Linux/README.md)  
-[Databases](./Databases/README.md)  
-[Python](./Python/README.md)  
-[CloudFormation](./CloudFormation/README.md)  
-[Lambda](./Lambda/Challenge_Lab.md)  
-[Storage and Archiving](./Storage%20and%20Archiving/README.md) 
+### 3. Recommended Tools
+- **AWS Account:** [Free Tier](https://aws.amazon.com/free/) (Always monitor costs!)
+- **VS Code:** Recommended editor for Python and YAML.
+- **Local Linux:** WSL2 (Windows) or a VirtualBox VM.
 
-## Each folder contains:  
-- A README.md with clear lab steps
-- Example commands and scripts
-- Practice exercises
+---
 
-## You can practice using:
-- A local Linux Virtual Machine (VM), Visual Studio Code (VSC) terminal, for Linux/Python labs. 
-- MySQL or RDS for database labs
-- AWS Free Tier for cloud-focused labs
+## 🤝 Community & Support
 
-## Contributing
-If you have lab exercises you'd like to share, feel free to:
-- Fork this repo
-- Add your lab under the appropriate folder
-- Submit a pull request
+- **Found a bug?** Open an [Issue](https://github.com/jj-rs/AWS_Restart_Lab/issues).
+- **Want to contribute?** Fork the repo and submit a Pull Request!
+- **Connect with me:** Let's talk Cloud on [LinkedIn](https://www.linkedin.com/in/james-santos-18697713/)!
 
-Let’s help more people build their cloud foundations, one lab at a time.
+---
 
-## Cost Disclaimer
-Many labs can be completed using free tools or local setups. For AWS-related labs, please ensure you use the [AWS Free Tier](https://aws.amazon.com/free/) to avoid unexpected charges. Always monitor your AWS usage and delete any resources you create after completing the labs.
+## ⚠️ Cost & Safety Disclaimer
 
-> ⚠️ Important: You are solely responsible for any charges incurred while running these labs. Always delete or stop resources (EC2, EBS, EFS, S3, snapshots, etc.) once you’re done to avoid unexpected costs. 
+*AWS services can incur costs. Always:*
+1. Use the **AWS Free Tier**.
+2. **Set up Billing Alarms** before starting.
+3. **Delete/Terminate** all resources (EC2, RDS, NAT Gateways) immediately after completing a lab.
 
+*This project is an independent community resource and is not officially affiliated with AWS or the AWS re/Start program.*
 
-
-## Disclaimer
-This project is an independent community resource and is not affiliated with AWS or the official AWS re/Start program.
-
-## Contact
-Got suggestions or feedback?  
-Reach out via LinkedIn or open an issue
+---
+<p align="center">Made with ❤️ for the Cloud Community</p>
