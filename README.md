@@ -27,9 +27,14 @@ Welcome to the **AWS re/Start Lab Compilation**! This repository is a curated co
 | 🗄️ [**Databases & SQL**](./Databases/README.md) | RDS, MariaDB, CRUD, Operations | ✅ Complete |
 | 🔐 [**IAM**](./IAM/README.md) | Users, Groups, Roles, Policies | ✅ Complete |
 | ☁️ [**Networking**](./Networking/README.md) | VPC, Subnets, Security Groups | ✅ Complete |
+| ⚖️ [**High Availability**](./High%20Availability/README.md) | Load Balancers (ALB), Auto Scaling (ASG) | ✅ Complete |
 | ⚡ [**AWS Lambda**](./Lambda/Challenge_Lab.md) | Serverless, S3 Triggers, SNS | ✅ Complete |
+| 📊 [**NoSQL Databases**](./NoSQL%20Databases/README.md) | DynamoDB, Boto3, CRUD | ✅ Complete |
 | 🏗️ [**CloudFormation**](./CloudFormation/README.md) | Infrastructure as Code (IaC) | ✅ Complete |
-| 📦 [**Storage & Archiving**](./Storage%20and%20Archiving/README.md) | S3, EBS, EFS | ✅ Complete |
+| 📦 [**Storage & Archiving**](./Storage%20and%20Archiving/README.md) | S3, EBS, EFS, Instance Store | ✅ Complete |
+| 🌐 [**Content Delivery**](./Content%20Delivery/README.md) | CloudFront, Route 53 | ✅ Complete |
+| 💾 [**Data Protection**](./Data%20Protection/README.md) | AWS Backup, Disaster Recovery | ✅ Complete |
+| 📈 [**Monitoring**](./Monitoring%20and%20Observability/README.md) | CloudWatch, SNS Alarms | ✅ Complete |
 
 ---
 
