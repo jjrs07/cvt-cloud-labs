@@ -13,9 +13,9 @@ Each lab demonstrates a different storage service, from **block** to **object** 
 | Service | Description | Link |
 |----------|--------------|------|
 | **EBS (Elastic Block Store)** | Persistent block storage for EC2, including volume creation, attachment, snapshots, and restoration. | [Go to EBS Lab](./EBS/README.md) |
-| **Instance Store** | High-performance ephemeral storage directly attached to EC2 instances. | _Coming soon_ |
-| **EFS (Elastic File System)** | Scalable, shared file system accessible by multiple EC2 instances. | _Coming soon_ |
-| **S3 (Simple Storage Service)** | Object storage for backups, versioning, and archival with lifecycle management to Glacier. | _Coming soon_ |
+| **Instance Store** | High-performance ephemeral storage directly attached to EC2 instances. | [Go to Instance Store Lab](./Instance%20Store/README.md) |
+| **EFS (Elastic File System)** | Scalable, shared file system accessible by multiple EC2 instances. | [Go to EFS Lab](./EFS/README.md) |
+| **S3 (Simple Storage Service)** | Object storage for backups, versioning, and archival with lifecycle management. | [Go to S3 Lab](./S3/README.md) |
 
 ---
 
