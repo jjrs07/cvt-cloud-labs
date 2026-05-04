@@ -25,6 +25,7 @@ Welcome to the **AWS re/Start Lab Compilation**! This repository is a curated co
 | 🐧 [**Linux Fundamentals**](./Linux/README.md) | CLI, Permissions, Scripting | ✅ Complete |
 | 🐍 [**Python for Cloud**](./Python/README.md) | Automation, Data Handling, Logic | ✅ Complete |
 | 🗄️ [**Databases & SQL**](./Databases/README.md) | RDS, MariaDB, CRUD, Operations | ✅ Complete |
+| 🔐 [**IAM**](./IAM/README.md) | Users, Groups, Roles, Policies | ✅ Complete |
 | ☁️ [**Networking**](./Networking/README.md) | VPC, Subnets, Security Groups | ✅ Complete |
 | ⚡ [**AWS Lambda**](./Lambda/Challenge_Lab.md) | Serverless, S3 Triggers, SNS | ✅ Complete |
 | 🏗️ [**CloudFormation**](./CloudFormation/README.md) | Infrastructure as Code (IaC) | ✅ Complete |
