@@ -1,9 +1,22 @@
-Summary of the Architecture
-S3 triggers Lambda when a text file is uploaded.
+# Lambda Challenge: Automated Word Count & Notification
 
-Lambda reads the text file, counts the words.
+This lab challenges you to build a serverless pipeline that automatically processes text files and notifies you of the results.
 
-Lambda sends an email (and optionally SMS) via SNS with the result.
+---
+
+## 🗺️ Architecture Diagram
+
+```mermaid
+graph LR
+    User[User/Student] -->|Uploads .txt| S3[S3 Bucket]
+    S3 -->|Trigger| Lambda[Lambda Function]
+    Lambda -->|Word Count| SNS[SNS Topic]
+    SNS -->|Email/SMS| Notify[You]
+```
+
+---
+
+## Summary of the Architecture
 
 
 Step 1: Create an SNS Topic
