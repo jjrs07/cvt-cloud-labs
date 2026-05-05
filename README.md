@@ -1,4 +1,4 @@
-# 🚀 AWS re/Start Lab Compilation: From Zero to Cloud Ready
+# 🚀 CVT Cloud Labs: From Zero to Cloud Ready
 
 ![AWS re/Start Banner](https://img.shields.io/badge/AWS-re%2FStart-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 ---
 
-Welcome to the **AWS re/Start Lab Compilation**! This repository is a curated collection of hands-on labs designed to take you from foundational IT concepts to AWS proficiency. Whether you are an AWS re/Start student, a career switcher, or a self-learner, these labs provide the practical experience needed for entry-level cloud roles.
+Welcome to the **CVT Cloud Labs**! This repository is a curated collection of hands-on labs designed to take you from foundational IT concepts to AWS proficiency. Whether you are an AWS re/Start student, a career switcher, or a self-learner, these labs provide the practical experience needed for entry-level cloud roles.
 
 ## 🎯 Why This Repository?
 
@@ -42,8 +42,8 @@ Welcome to the **AWS re/Start Lab Compilation**! This repository is a curated co
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/jj-rs/AWS_Restart_Lab.git
-cd AWS_Restart_Lab
+git clone https://github.com/jj-rs/cvt-cloud-labs.git
+cd cvt-cloud-labs
 ```
 
 ### 2. Choose Your Path
@@ -61,7 +61,7 @@ Each folder contains a dedicated `README.md` with:
 
 ## 🤝 Community & Support
 
-- **Found a bug?** Open an [Issue](https://github.com/jj-rs/AWS_Restart_Lab/issues).
+- **Found a bug?** Open an [Issue](https://github.com/jj-rs/cvt-cloud-labs/issues).
 - **Want to contribute?** Fork the repo and submit a Pull Request!
 - **Connect with me:** Let's talk Cloud on [LinkedIn](https://www.linkedin.com/in/james-santos-18697713/)!
 
