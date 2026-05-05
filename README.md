@@ -27,6 +27,7 @@ Welcome to the **CVT Cloud Labs**! This repository is a curated collection of ha
 | 🗄️ [**Databases & SQL**](./Databases/README.md) | RDS, MariaDB, CRUD, Operations | ✅ Complete |
 | 🔐 [**IAM**](./IAM/README.md) | Users, Groups, Roles, Policies | ✅ Complete |
 | ☁️ [**Networking**](./Networking/README.md) | VPC, Subnets, Security Groups | ✅ Complete |
+| 💻 [**Amazon EC2**](./EC2/README.md) | Virtual Servers, User Data, AMI | ✅ Complete |
 | ⚖️ [**High Availability**](./High%20Availability/README.md) | Load Balancers (ALB), Auto Scaling (ASG) | ✅ Complete |
 | ⚡ [**AWS Lambda**](./Lambda/Challenge_Lab.md) | Serverless, S3 Triggers, SNS | ✅ Complete |
 | 📊 [**NoSQL Databases**](./NoSQL%20Databases/README.md) | DynamoDB, Boto3, CRUD | ✅ Complete |
