@@ -8,7 +8,7 @@
 
 ---
 
-Welcome to the **CVT Cloud Labs**! This repository is a curated collection of hands-on labs designed to take you from foundational IT concepts to AWS proficiency. Whether you are an AWS re/Start student, a career switcher, or a self-learner, these labs provide the practical experience needed for entry-level cloud roles.
+Welcome to the **CVT Cloud Labs**! This repository is a curated collection of hands-on labs patterned from the AWS re/start program designed to take you from foundational IT concepts to AWS proficiency. Whether you are an AWS re/Start student, a career switcher, or a self-learner, these labs provide the practical experience needed for entry-level cloud roles.
 
 ## 🎯 Why This Repository?
 
