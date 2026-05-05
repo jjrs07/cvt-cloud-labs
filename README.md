@@ -60,6 +60,13 @@ Each folder contains a dedicated `README.md` with:
 
 ---
 
+## 🚀 Real-World Projects
+
+Looking for practical applications of these cloud skills? Check out my featured project:
+👉 **[CVT BackupBridge](https://github.com/jjrs07/CVT-BackupBridge)** – A hybrid cloud disaster recovery solution for SQL Server.
+
+---
+
 ## 🤝 Community & Support
 
 - **Found a bug?** Open an [Issue](https://github.com/jj-rs/cvt-cloud-labs/issues).
